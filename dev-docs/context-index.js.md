@@ -24,7 +24,7 @@ undefined
 
 ### Third Party Libaries
 
-Yes, this function uses the third-party library Jimp (JavaScript Image Manipulation Program) for image processing and manipulation.
+undefined
 
 ### Code Example
 
